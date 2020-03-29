@@ -15,11 +15,11 @@ A cryptocurrency company
 * How did the idea for the company (or project) come about?
    
     -  The founder believed that the financial system is inefficient, not improving, and holding back innovation. 
-    - In 2010, the founder came across a paper on the internet (Bitcoin: A Peer-to-Peer Electronic Cash System) by Satoshi Nakamoto, where he liked the idea that the internet can move money around the world. He believd that this idea can make the financial system more fair, efficient and open to all people, so he started to program Coinbase 
+    - In 2010, the founder came across a paper on the internet (Bitcoin: A Peer-to-Peer Electronic Cash System) by Satoshi Nakamoto, where he liked the idea that the internet can move money around the world. He believd that this idea can make the financial system more fair, efficient and open to all people, so he started to program Coinbase.
 
 * How is the company funded? How much funding have they received?
     - In 2011, Coinbase enrolled in the summer 2012 Y combinator startup incubator program 
-    - In May 2013, Coinbase received $5 million Series A investment led by Fred Wilson from the venture capital firm Union Square Ventures
+    - In May 2013, Coinbase received $5 million Series A investment led by Fred Wilson from the venture capital firm Union Square Ventures.
 
 
 ## Business Activities:
@@ -28,9 +28,13 @@ A cryptocurrency company
     - Financial efficiency and economic freedom by using cryptocurrency and smartphone revolution to inject economic freedom all over the world
             
          - Economic freedom examples:
-            1. Cryptocurrency gives people wealth that cannot be taken away from them by having property rights using controlled wallets and brain wallets
-            2. Cryptocurrency provides free trade by enabling cross-border payments
+            1. Property Rights
+                - Cryptocurrency gives people wealth that cannot be taken away from them by having property rights using controlled wallets and brain wallets
+    
+            2. Free Trade
+                - Cryptocurrency provides free trade by enabling cross-border payments
             3. Currency stability
+                - Cryptocurrency fights inflation 
 
 
 
@@ -38,22 +42,40 @@ A cryptocurrency company
     - Merchants and consumers. Coinbase is based in San Francisco, California, and has more than 30 million users with more than $150 billion traded.
 
 
--   **What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)** 
+-   What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)** 
    
      - Coinbase offers scheduled transactions service
     - Coinbase has an "Instant Buy" option available with debit card
     - Coinbase enjoys liquidity and a great number of users which makes them a good platform for starters and this is caused by the "rich get richer" effect
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-    - <span style="color:red">Products that make up Coinbase’s tech stack include: Android Wear SDK, Authy, Bootstrap, Busnag, Cloudinary, CloudFlare, DigiCert, Emailage, Evident. io, Fastly, Google (Cloud Messaging, Maps), HackerOne, Iron. io Enterprise, IronMQ, JavaScript, MarkMonitor Domain Management, MongoDB, New Relic, nginx, Node.js, PostgreSQL, Redis, Ruby, Ruby on Rails, reCAPTCHA, and Sakurity.</span> 
-    - <span style="color:red">Additionally, here’s a list of other software products that Coinbase is using internally:
-        - Marketing: Amazon SES, Google (Apps for Work, Tag Manager), Segment
-        - Sales and Support: Base CRM, Olark, Salesforce Desk.com
-        - Analytics: AWS Kinesis, D3js, Google Analytics, Mixpanel
-        - HR: AngelList Jobs, Culture Amp, Greenhouse
-        - Finance and Accounting: Emburse, BlockCypher, Sift Science, Square
-        - Productivity: Clerky, FireEye, Google (Drive, Fit SDK), Managed By Q</span> 
-            > 
+  - Coinbase uses different technologies for different components:
+    -  Databases:
+        - MongoDB, PostgreSQL, and Redis, 
+    -  Programming Languages & Environments:
+        - Ruby, Ruby on Rails, JavaScript, Node.js, Android Wear SDK, Bootstrap, Bugsnag
+        -   API: Coinbase offers developers official libraries for Ruby, Python, Node.js, PHP. 
+    -  Digital Security Management:
+        - Authy, DigiCert, HackerOne, Sakurity, Evident. io
+    - Cloud Infrastructure:
+        - Google Cloud, New Relic, Cloudinary, CloudFlare, Fastly
+    -  Other Technologies:
+        - nginx (web server)
+    
+   - Additionally, software products used internally:
+        -  Marketing:
+            -  Amazon SES, Google (Apps for Work, Tag Manager), Segment
+        - Sales and Support:
+            -  Base CRM, Olark, Salesforce Desk.com
+        - Analytics: 
+            - AWS Kinesis, D3js, Google Analytics, Mixpanel
+        - HR: 
+            - AngelList Jobs, Culture Amp, Greenhouse
+        - Finance and Accounting:
+            - Emburse, BlockCypher, Sift Science, Square
+        - Productivity:
+            - Clerky, FireEye, Google (Drive, Fit SDK), Iron.io Enterprise
+            
 
 
 
@@ -74,7 +96,7 @@ A cryptocurrency company
                 - Governed by the independent Libra Association
                 - Uses the LibraBFT consensus mechanism
                 - Smart contract coding is done through “Move” programming language
-    - Government regulation 
+    - Government Regulation 
         - In June 2015, New York regulated blockchain companies through state agency rulemaking.
         - In 2019, 32 states  introduced laws to accept or to promote the usage of blockchain distributed ledger technology (DLT), where as some other states have already passed them into effective laws. 
 
@@ -82,11 +104,14 @@ A cryptocurrency company
     - Xapo
         - A cryptocurrency company based in Hong Kong that provides bitcoin wallet services
     - Blockchain.com
-        - a cryrptocurrency wallet and a Bitcoin block explorer based in Luxembourg
+        - A cryrptocurrency wallet and a Bitcoin block explorer based in Luxembourg.
     - Kraken
-        - a cryptocurrency exchange company based in the United States
-    - <span style="color:red">Binance
-    - <span style="color:red">Huobi
+        - A cryptocurrency exchange company based in the United States.
+    - Binance
+        - A cryptocurrency exchange trading platform for more than 100 cryptocurrencies. Its headquarters is in Malta.
+    - Huobi
+        - A cryptocurrency exchange company based in Singapore and has offices in Korea, Hong Kong, 
+    Japan, and the United States. In 2018, Huobi became a publicly listed Hong Kong company. 
     
 
 
@@ -95,7 +120,7 @@ A cryptocurrency company
 ## Results
 
 * What has been the business impact of this company so far?
-    - <span style="color:red">Providing a secured platform for cyprtocurrency exchange, which is easy to use especially for first time buyers. It offers different options for payments including Paypal, debit card, credit card, or bank transfers. This resulted in gaining more than 30 million users. </span>
+    - Providing a secure platform for cyprtocurrency exchange, which is easy to use especially for first time buyers. It offers different options for payments including Paypal, debit card, credit card, or bank transfers. This resulted in gaining more than 30 million users. 
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
     - Number of users
@@ -131,6 +156,15 @@ Resources:
 5. Cointbase.com 
 6. https://blockgeeks.com/guides/understanding-facebooks-cryptocurrency-libra/
 7. https://www.ncsl.org/research/financial-services-and-commerce/blockchain-2019-legislation.aspx
+8. https://github.com/coinbase
+9. https://www.youtube.com/watch?v=HQaegigv6jU
+10. https://cointelegraph.com/news/coinbase-added-8-million-new-users-in-the-past-year
+11. https://xapo.com/en/about
+12. https://www.blockchain.com/about
+13. https://www.kraken.com/en-us/why-kraken
+14. https://www.buybitcoinworldwide.com/exchanges/coinbase/
+15. https://blog.coinbase.com/how-we-do-mongodb-migrations-at-coinbase-47f18110d17f
+16. https://www.quora.com/What-is-Coinbases-technology-stack
 
 
 
